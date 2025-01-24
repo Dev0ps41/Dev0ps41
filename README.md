@@ -7,7 +7,7 @@
 ⚡ Fun fact: I can debug code faster with coffee in hand and love automating repetitive tasks!
 
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev0ps41&show_icons=true&theme=dark) 
+ ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev0ps41&show_icons=true&theme=dark) 
 
 
 
