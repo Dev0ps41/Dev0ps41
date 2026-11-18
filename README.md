@@ -8,7 +8,7 @@
 
 ### ⚡ What I Do
 - 🌐 **Full-Stack Development** — React, Next.js, Node.js, .NET, TypeScript
-- ☁️ **DevOps & Cloud Infrastructure** — Docker, Linux, CI/CD, Coolify
+- ☁️ **DevOps & Cloud Infrastructure** — Docker, Linux, CI/CD
 - 🔐 **Cybersecurity** — Infrastructure Security, Network Protection & Hardening
 - 🛠️ **IT Systems & Support** — Troubleshooting, Administration & Automation
 - 🚀 **Digital Products** — SaaS Platforms, E-Commerce & Web Applications
