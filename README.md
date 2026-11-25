@@ -1,6 +1,6 @@
 # Hey there, I'm Christos! 👋
 
-### 🚀 Full-Stack Developer | DevOps Engineer | Cybersecurity Enthusiast
+### 🚀 Full-Stack Developer | DevOps Engineer | Cybersecurity Analyst
 
 💻 Passionate about building scalable applications, secure infrastructures, and innovative digital solutions.
 
